@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "routes": [
+    { "handle": "filesysystem" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
